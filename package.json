@@ -1,0 +1,11 @@
+{
+  "name": "max-api-or-not",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Dimitri Aatos Ellinas",
+  "license": "CC-BY-4.0"
+}
