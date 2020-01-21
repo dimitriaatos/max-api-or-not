@@ -5,7 +5,20 @@
   "main": "index.js",
   "scripts": {
   },
-  "keywords": [],
+  "keywords": [
+		"max",
+		"max/msp",
+		"n4m",
+		"cycling' 74",
+		"node for max",
+		"node.script",
+		"max-api"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dimitriaatos/max-api-or-not.git"
+	},
+	"homepage": "https://github.com/dimitriaatos/max-api-or-not",
   "author": "Dimitri Aatos Ellinas",
   "license": "CC-BY-4.0"
 }
