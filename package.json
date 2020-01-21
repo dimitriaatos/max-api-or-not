@@ -1,11 +1,10 @@
 {
-  "name": "max-api-or-not",
-  "version": "1.0.0",
-  "description": "Error-free N4M outside of Max",
-  "main": "index.js",
-  "scripts": {
-  },
-  "keywords": [
+	"name": "max-api-or-not",
+	"version": "1.0.1",
+	"description": "Error-free N4M outside of Max",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": [
 		"max",
 		"max/msp",
 		"n4m",
@@ -19,6 +18,6 @@
 		"url": "https://github.com/dimitriaatos/max-api-or-not.git"
 	},
 	"homepage": "https://github.com/dimitriaatos/max-api-or-not",
-  "author": "Dimitri Aatos Ellinas",
-  "license": "CC-BY-4.0"
+	"author": "Dimitri Aatos Ellinas",
+	"license": "CC-BY-4.0"
 }
