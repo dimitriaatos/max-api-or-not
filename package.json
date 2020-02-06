@@ -1,6 +1,6 @@
 {
 	"name": "max-api-or-not",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Error-free N4M outside of Max",
 	"main": "index.js",
 	"scripts": {},
