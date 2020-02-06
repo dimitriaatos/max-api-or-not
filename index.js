@@ -13,18 +13,18 @@ const noMax = {
 		INFO: 'info',
 		WARN: 'warn'
 	},
-	addHandler: ()=>{},
-	addHandlers: ()=>{},
-	getDict: ()=>{},
-	outlet: ()=>{},
-	outletBang: ()=>{},
-	post: (c)=>{console.log(c)},
-	registerShutdownHook: ()=>{},
-	removeHandler: ()=>{},
-	removeHandlers: ()=>{},
-	setDict: ()=>{},
-	updateDict: ()=>{},
-	__n4m_getRegisteredShutdownHook: ()=>{}
+	addHandler: () => {},
+	addHandlers: () => {},
+	getDict: () => Promise.resolve({}),
+	outlet: () => {},
+	outletBang: () => {},
+	post: (c) => {console.log(c)},
+	registerShutdownHook: () => {},
+	removeHandler: () => {},
+	removeHandlers: () => {},
+	setDict: () => {},
+	updateDict: () => {},
+	__n4m_getRegisteredShutdownHook: () => {}
 }
 
 try {
